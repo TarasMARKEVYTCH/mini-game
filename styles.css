@@ -66,6 +66,7 @@ h1 {
   font-family: inherit;
   padding: .5rem 1rem;
   font-size: 1.5rem;
+  margin-top: 2rem;
 }
 
 .time-btn:hover {
